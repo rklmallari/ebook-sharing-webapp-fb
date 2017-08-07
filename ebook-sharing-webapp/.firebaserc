@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "ebooksharingwebapp",
+    "ebooksharing": "ebooksharingwebapp",
+    "ebswa": "ebooksharingwebapp",
+    "ebooksharewebapp": "ebooksharingwebapp"
+  }
+}
